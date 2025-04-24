@@ -19,6 +19,4 @@ Titanic Dataset from [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-da
 ## How to Run
 Open the `Data_Cleaning_&_Preprocessing.ipynb` notebook and run all cells in order.
 
-## Screenshots (Optional)
-Add if you want to visually showcase output graphs or transformations.
 
